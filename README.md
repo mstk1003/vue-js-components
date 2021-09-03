@@ -1,4 +1,4 @@
-# vue-js-components
+# vue-js-components DAZO!
 
 ## Project setup
 ```
